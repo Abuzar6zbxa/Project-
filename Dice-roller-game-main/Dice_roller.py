@@ -15,7 +15,7 @@ class Dice_roller(object):
         symbols = ["\u2680", "\u2681", "\u2682", "\u2683", "\u2684", "\u2685"]
         self.label.config(text=f"{random.choice(symbols)}{random.choice(symbols)}")
         self.label.pack()
-
+ 
 
 if __name__ == '__main__':
     root = Tk()
