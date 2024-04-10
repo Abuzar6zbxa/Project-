@@ -5,7 +5,7 @@ from tkinter import *
 class Dice_roller(object):
     def __init__(self, master):
         frame = Frame(master)
-        frame.pack() 
+        frame.pack()
 
         self.label = Label(master, font=("times", 200))
         button = Button(master, text="Roll Dice", command=self.roll)
