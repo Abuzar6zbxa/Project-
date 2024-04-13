@@ -6,7 +6,7 @@ This is a Billing Software project, with Inventory and Employee Management. It i
 `Python 3.7`
 
 ## Run / Execute
-$ python main.py
+$ python main.py 
 
 ## Screenshots
 #### Main PAGE
