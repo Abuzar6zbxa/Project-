@@ -9,7 +9,7 @@ root = tk.Tk()
 root.title('Langauge Translator')
 root.geometry('530x330')
 root.maxsize(530,330)
-root.minsize(530,330)
+root.minsize(530,330) 
 
 
 def translate():
