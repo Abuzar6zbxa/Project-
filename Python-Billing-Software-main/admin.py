@@ -15,7 +15,7 @@ root = Tk()
 root.geometry("1366x768")
 root.title("Billing Software(ADMIN)")
 
-
+ 
 user = StringVar()
 passwd = StringVar()
 fname = StringVar()
